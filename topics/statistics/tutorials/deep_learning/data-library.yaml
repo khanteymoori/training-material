@@ -1,0 +1,24 @@
+---
+destination:
+  type: library
+  name: GTN - Material
+  description: Galaxy Training Network Material
+  synopsis: Galaxy Training Network Material. See https://training.galaxyproject.org
+items:
+- name: Statistics and machine learning
+  description: Deep learning using Galaxy
+    tools
+  items:
+  - name: Deep learning for ...
+    items:
+    - name: 'DOI: 10.5281/...'
+      description: latest
+      items:
+      - url: https://zenodo.org/api/files/...
+        src: url
+        ext: tsv
+        info: https://zenodo.org/record/...
+      - url: https://zenodo.org/api/files/...
+        src: url
+        ext: tsv
+        info: https://zenodo.org/record/...
